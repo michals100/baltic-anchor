@@ -46,7 +46,7 @@ Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja
 | 3. Locja | --- |
 | 4. costam 1 | pdf |
 | 5. Wyklad Ratownictwo Morskie | pdf |
-| 6. Wyklad jakistam innt | pdf |
+| 6. Zadanie nawigacyjne - schodki nawigacyjne | pdf |
 
 ## Dzień piąty (czwartek)
 
@@ -70,7 +70,7 @@ Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja
 | 5. Wyklad Ratownictwo Morskie | pdf |
 | 6. Wyklad jakistam innt | pdf |
 
-# Szkolenie na Radiooperatora VHF SRC
+## Radiooperator VHF SRC
 
 | Materiały | Pobierz |
 | --- | --- |
