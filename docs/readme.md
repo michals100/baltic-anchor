@@ -39,7 +39,7 @@ Powodzenia !
 | Materiały | Pobierz |
 | --- | --- |
 | 1. Wykład Prace Bosmańskie | [pdf](AAA/PRACE_BOSMASKIE_Baltic_Anchor.pdf) |
-| 2. Wykład Locja morska | [pdf](AAA/LOCJA_MORSKA_Baltic_Anchor.jpg) |
+| 2. Wykład Locja morska | [pdf](AAA/LOCJA_MORSKA_Baltic_Anchor.pdf) |
 | 3. Komendy podstawowe | [pdf](AAA/Komendy-podstawowe_manewry.pdf) |
 | 4. Kursy względem wiatru | [pdf](AAA/Kurs_względem_wiatru.jpg) |
 
