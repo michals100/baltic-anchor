@@ -1,19 +1,35 @@
 # Baltic Anchor - Materiały Szkoleniowe
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Witam wszystkich na szkoleniu na poziomie Morskiego Sternika Jachtowego, Inshore Skippera - ISSA oraz radiooperatora VHF - ISSA
 
-Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja sie materialy szkoleniowy na kazdy dzien. Kolejnosc moze sie troche zmienic ale blah blah. Zycze wszystkim udanego kursu. Pozdrawiam, kpt. Adam Jakubczak
+Jak pewnie już dobrze wszystkim wiadomo wiedza i umiejętności są tak samo ważne dla sternika jak doświadczenie.
+
+Poniżej znajdziecie podstawowe informacje pozwalające na powtórzenie wiedzy z najważniejszych tematów oraz na dobre przygotowanie się do egzaminu.
+
+Powodzenia !
+
+
+*Przypominam że wszystkie zamieszczone poniżej materiały są prywatną własnością i pod ryzykiem odpowiedzialności karnej i cywilne zabrania się ich kopiowania lub dystrybuowania osobą trzecim. Materiały są dostępne tylko i wyłącznie dla osób potwierdzających powyższe postanowienie.*
+
+*Uczestnictwo w rejsie i szkoleniu jest równoznaczne z akceptowaniem i przestrzeganiem regulaminu jachtu SY Sistrum*
+
+*[Regulamin jachtu](AAA/SY_SISTRUM_Regulamin_jachtu.pdf)*
 
 ## Dzień pierwszy (sobota/niedziela)
 
 | Materiały | Pobierz |
 | --- | --- |
-| 1. Alfabet fonetyczny | [pdf](materialy/01_dzien_pierwszy/SRC-phonetic-alphabet.pdf) |
-| 2. VHF distress procedure | img |
-| 3. Locja | --- |
-| 4. costam 1 | pdf |
-| 5. Wyklad Ratownictwo Morskie | pdf |
-| 6. Wyklad jakistam innt | pdf |
+| 1. Wykład Ratownictwo | [pdf](materialy/01_dzien_pierwszy/SRC-phonetic-alphabet.pdf) |
+| 2. Alfabet radiowy - fonetyczny | img |
+| 3. Manewr Człowiek za burtą | --- |
+| 4. Porównanie dostępnych uprawnień | pdf |
+
+| Przydatne linki | Link |
+| --- | --- |
+| 1. Wykład Ratownictwo | [pdf](materialy/01_dzien_pierwszy/SRC-phonetic-alphabet.pdf) |
+| 2. Alfabet radiowy - fonetyczny | img |
+| 3. Manewr Człowiek za burtą | --- |
+| 4. Porównanie dostępnych uprawnień | pdf |
 
 ## Dzień drugi (poniedziałek)
 
@@ -59,7 +75,7 @@ Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja
 | 5. Wyklad Ratownictwo Morskie | pdf |
 | 6. Wyklad jakistam innt | pdf |
 
-## Dzień szósty (piątek)
+## Dzień szósty (piątek) - EGZAMIN
 
 | Materiały | Pobierz |
 | --- | --- |
@@ -69,6 +85,8 @@ Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja
 | 4. costam 1 | pdf |
 | 5. Wyklad Ratownictwo Morskie | pdf |
 | 6. Wyklad jakistam innt | pdf |
+
+Powodzenia!
 
 ## Radiooperator VHF SRC
 
@@ -81,7 +99,7 @@ Serdecznie witam na szkoleniu na jachtowego strenika morskiego. Ponizej znajduja
 | 5. Wyklad Ratownictwo Morskie | pdf |
 | 6. Wyklad jakistam innt | pdf |
 
-## Przydatne linki (po kursie)
+## Materiały dodatkowe (po zakończeniu szkolenia)
 
 - link pierwszy
 - link drugi
