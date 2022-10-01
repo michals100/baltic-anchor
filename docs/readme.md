@@ -11,9 +11,7 @@ Powodzenia !
 
 *Przypominam że wszystkie zamieszczone poniżej materiały są prywatną własnością i pod ryzykiem odpowiedzialności karnej i cywilne zabrania się ich kopiowania lub dystrybuowania osobą trzecim. Materiały są dostępne tylko i wyłącznie dla osób potwierdzających powyższe postanowienie.*
 
-*Uczestnictwo w rejsie i szkoleniu jest równoznaczne z akceptowaniem i przestrzeganiem regulaminu jachtu SY Sistrum*
-
-*[Regulamin jachtu](AAA/SY_SISTRUM_Regulamin_jachtu.pdf)*
+*Uczestnictwo w rejsie i szkoleniu jest równoznaczne z akceptowaniem i przestrzeganiem regulaminu jachtu SY Sistrum ([Regulamin jachtu](AAA/SY_SISTRUM_Regulamin_jachtu.pdf))*
 
 ## Dzień pierwszy
 
@@ -24,7 +22,7 @@ Powodzenia !
 | 3. Manewr Człowiek za burtą | [pdf](AAA/Manewr_Człowiek_za_burtą.pdf) |
 | 4. Porównanie dostępnych uprawnień | [pdf](AAA/Porównanie_uprawnien.pdf) |
 
-</br>
+<br/>
 
 | Przydatne linki | Link |
 | --- | --- |
@@ -45,7 +43,7 @@ Powodzenia !
 | 3. Komendy podstawowe | [pdf](AAA/Komendy-podstawowe_manewry.pdf) |
 | 4. Kursy względem wiatru | [pdf](AAA/Kurs_względem_wiatru.jpg) |
 
-</br>
+<br/>
 
 | Przydatne linki | Link |
 | --- | --- |
@@ -61,7 +59,7 @@ Powodzenia !
 | 1. Wykład Międzynarodowe Prawo Drogi Morskiej | [pdf](AAA/MPDM-Baltic_Anchor.pdf) |
 | 2. Najważniejsze znaki dźwiękowe | [pdf](AAA/NAJWAŻNIEJSZE_ZNAKI_DZWIĘKOWE.pdf) |
 
-</br>
+<br/>
 
 | Przydatne linki | Link |
 | --- | --- |
@@ -76,7 +74,7 @@ Powodzenia !
 | --- | --- |
 | 1. Wykład Meteorologia | [pdf](AAA/Meterologia_Baltic_Anchor.pdf) |
 
-</br>
+<br/>
 
 | Przydatne linki | Link |
 | --- | --- |
@@ -89,7 +87,7 @@ Powodzenia !
 | --- | --- |
 | 1. Wykład Teoria żeglowania | [pdf](AAA/TEORIA_ŻEGLOWANIA_Baltic_Anchor.pdf) |
 
-</br>
+<br/>
 
 | Przydatne linki | Link |
 | --- | --- |
